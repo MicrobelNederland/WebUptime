@@ -24,6 +24,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   workflowSchedule:
-    graphs: "*/5 * * * *"
     responseTime: "*/5 * * * *"
-    uptime: "*/5 * * * *"
