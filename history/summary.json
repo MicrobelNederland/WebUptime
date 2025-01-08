@@ -4,18 +4,19 @@
     "url": "https://www.mediums.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.mediums.nl.ico",
     "slug": "mediums",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 1136,
     "timeDay": 1696,
     "timeWeek": 1136,
     "timeMonth": 1136,
     "timeYear": 1136,
     "dailyMinutesDown": {
+      "2025-01-08": 0,
       "2025-01-06": 18
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 1032,
-    "timeWeek": 803,
-    "timeMonth": 803,
-    "timeYear": 803,
+    "time": 848,
+    "timeDay": 1118,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {}
   }
 ]
